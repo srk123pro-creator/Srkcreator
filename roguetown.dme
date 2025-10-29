@@ -1616,6 +1616,7 @@
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\grenzelhoft.dm"
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\grudgebearer.dm"
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\kashira.dm"
+#include "code\modules\jobs\job_types\roguetown\mercenaries\classes\monsterhunter.dm"
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\routier.dm"
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\rumaclan.dm"
 #include "code\modules\jobs\job_types\roguetown\mercenaries\classes\steppesman.dm"
