@@ -37,8 +37,6 @@
 		/datum/skill/magic/arcane = SKILL_LEVEL_APPRENTICE,
 		/datum/skill/misc/tracking = SKILL_LEVEL_EXPERT,
 		/datum/skill/misc/sewing = SKILL_LEVEL_NOVICE,
-		/datum/skill/craft/armorsmithing = SKILL_LEVEL_NOVICE,
-		/datum/skill/craft/weaponsmithing = SKILL_LEVEL_NOVICE,
 	)
 
 /datum/outfit/job/roguetown/mercenary/monsterhunter/pre_equip(mob/living/carbon/human/H)
