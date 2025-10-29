@@ -104,4 +104,4 @@
 		H.mind.AddSpell(new /obj/effect/proc_holder/spell/invoked/enchant_weapon)
 		H.mind.AddSpell(new /obj/effect/proc_holder/spell/invoked/repulse)
 		H.mind.AddSpell(new /obj/effect/proc_holder/spell/invoked/forcewall)
-		H.mind.AddSpell(new /obj/effect/proc_holder/spell/invoked/malum_flame_rogue) // only for devotee virtue, for the fun, it doesnt bring anything realy usefull.
+		H.mind.AddSpell(new /obj/effect/proc_holder/spell/invoked/malum_flame_rogue) // only for devotee virtue, for the fun and igni spell like, it doesnt bring anything realy usefull.
